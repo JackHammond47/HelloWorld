@@ -2,9 +2,8 @@
 
 This is a simple example of setting up a github repo with a basic Hello World program. I created this to demonstrate how to use VScode, GitHub, and python (or any other language) to publish future work.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/2bd3ad93f7fb4d998279fdbf6f533b4b?sid=9fae8aa9-1602-49a7-8ab5-a2222c0d2dd7)
 
 # Development Environment
 * Visual Studio Code
@@ -13,6 +12,5 @@ This is a simple example of setting up a github repo with a basic Hello World pr
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Uploading YouTube videos help page](https://support.google.com/youtube/answer/57407)
 * [Markdown syntax guide](https://www.markdownguide.org/cheat-sheet/)
